@@ -1,0 +1,13 @@
+{
+  "webowner": {
+    "password": "TEST@PASSWORD",
+    "username": "TEST@USERNAME"
+  },
+  "db": {
+    "pass": "SaiVishnu14",
+    "name": "b2bshopv1"
+  },
+  "jwt": {
+    "token": "MIIEpAIBAAKCAQEAot4exSagJ2sfjaArJgfOQn2t2robVhzI7Cb5chFNm0iNil2TZKZYtiFn7S8ScldwMeWmfi@Infoware"
+  }
+}
